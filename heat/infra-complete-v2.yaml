@@ -10,7 +10,7 @@ parameters:
     default: cirros-0.6.3-x86_64-disk
   flavor:
     type: string
-    default: m1.tiny
+    default: m1.caddy
   external_network:
     type: string
     default: public
